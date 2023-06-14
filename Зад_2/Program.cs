@@ -25,5 +25,5 @@ int num = ReadInt("Введите число -> ");
 if (Validate2sign(num))
 {
     int lastDigit = num % 10;
-    System.Console.WriteLine($"Вторая цифра числа {num} равна {lastDigit}");
+    System.Console.WriteLine($"Третья цифра числа {num} равна {lastDigit}");
 }
