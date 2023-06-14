@@ -1,0 +1,15 @@
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\bin\Debug\net6.0\Зад _1.exe
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\bin\Debug\net6.0\Зад _1.deps.json
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\bin\Debug\net6.0\Зад _1.runtimeconfig.json
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\bin\Debug\net6.0\Зад _1.dll
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\bin\Debug\net6.0\Зад _1.pdb
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.csproj.AssemblyReference.cache
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.AssemblyInfoInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.AssemblyInfo.cs
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.csproj.CoreCompileInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.dll
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\refint\Зад _1.dll
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.pdb
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\Зад _1.genruntimeconfig.cache
+C:\Users\VIKSER\Desktop\ДЗ_Сем_2\Зад _1\obj\Debug\net6.0\ref\Зад _1.dll
